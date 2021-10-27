@@ -21,3 +21,17 @@ If the content creator has a **gaming profile** for games of the franchise (e.g.
 ## Sources
 
 Streamer data and some player social link data comes from [Liquipedia](https://liquipedia.net/ageofempires/Main_Page) and was extracted from [aoc-reference-data](https://github.com/SiegeEngineers/aoc-reference-data/).
+
+### Logos
+
+#### Platforms
+
+- Discord: <https://discord.com/branding>
+- Douyu: <https://www.kindpng.com/picc/m/109-1092742_douyu-logo-douyu-logo-hd-png-download.png>
+- Facebook Gaming: <https://en.logodownload.org/facebook-gaming-logo/>
+- Twitch: <https://brand.twitch.tv/>
+- Youtube: <https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors>
+
+#### Games
+
+These files are © Microsoft Corporation, all rights reserved. Microsoft Corporation logos, Age of Empires imagery, Age of Mythology imagery, et cetera are free to use for non-profit projects as per a legal statement from Microsoft Corporation.
