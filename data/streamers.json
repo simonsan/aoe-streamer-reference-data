@@ -3,32 +3,64 @@
     {
       "id": 1,
       "platformName": "Twitch",
-      "logoPath": "media/logos/twitch.png",
+      "logoPath": "media/logos/content_platforms/twitch.png",
       "baseUrl": "https://www.twitch.tv"
     },
     {
       "id": 2,
       "platformName": "Youtube",
-      "logoPath": "media/logos/youtube.png",
+      "logoPath": "media/logos/content_platforms/youtube.png",
       "baseUrl": "https://www.youtube.com"
     },
     {
       "id": 3,
       "platformName": "FacebookGaming",
-      "logoPath": "media/logos/facebook-gaming.png",
+      "logoPath": "media/logos/content_platforms/facebook-gaming.png",
       "baseUrl": "https://www.facebook.com/gaming"
     },
     {
       "id": 4,
       "platformName": "Douyu",
-      "logoPath": "media/logos/douyu.png",
+      "logoPath": "media/logos/content_platforms/douyu.png",
       "baseUrl": "https://www.douyu.com"
     },
     {
       "id": 5,
       "platformName": "Discord",
-      "logoPath": "media/logos/discord.png",
+      "logoPath": "media/logos/content_platforms/discord.png",
       "baseUrl": "https://discord.com/invite"
+    }
+  ],
+  "contentGames": [
+    {
+      "id": 1,
+      "gameName": "Age of Empires I",
+      "logoPath": "media/logos/games/aoe1.png"
+    },
+    {
+      "id": 2,
+      "gameName": "Age of Empires II",
+      "logoPath": "media/logos/games/aoe2.png"
+    },
+    {
+      "id": 3,
+      "gameName": "Age of Empires III",
+      "logoPath": "media/logos/games/aoe3.png"
+    },
+    {
+      "id": 4,
+      "gameName": "Age of Mythology",
+      "logoPath": "media/logos/games/aom.png"
+    },
+    {
+      "id": 5,
+      "gameName": "Age of Empires: Online",
+      "logoPath": "media/logos/games/aoeo.png"
+    },
+    {
+      "id": 6,
+      "gameName": "Age of Empires IV",
+      "logoPath": "media/logos/games/aoe4.png"
     }
   ],
   "contentCategories": [
