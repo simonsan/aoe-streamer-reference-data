@@ -194,7 +194,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "249430",
@@ -266,7 +267,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "251265",
@@ -333,7 +335,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "312938",
@@ -388,7 +391,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "215442",
@@ -445,7 +449,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "197964",
@@ -521,7 +526,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "986504",
@@ -571,7 +577,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "232410",
@@ -635,7 +642,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "199170",
@@ -701,7 +709,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "197388",
@@ -770,7 +779,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "271202",
@@ -820,7 +830,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "254415",
@@ -874,7 +885,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "666976",
@@ -936,7 +948,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "419803"
@@ -989,7 +1002,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "217905",
@@ -1051,7 +1065,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "196310",
@@ -1113,7 +1128,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "347269",
@@ -1164,7 +1180,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "224786"
@@ -1223,7 +1240,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "506898",
@@ -1309,7 +1327,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "199419",
@@ -1359,7 +1378,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "210601"
@@ -1431,7 +1451,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "198035",
@@ -1508,7 +1529,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "199325",
@@ -1584,7 +1606,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "197751"
@@ -1656,7 +1679,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "213305"
@@ -1716,7 +1740,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "575722"
@@ -1775,7 +1800,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "357795"
@@ -1887,7 +1913,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "196240",
@@ -1958,7 +1985,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "614315"
@@ -2009,7 +2037,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "265517"
@@ -2056,7 +2085,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2806260"
@@ -2106,7 +2136,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "226575"
@@ -2179,7 +2210,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208393",
@@ -2258,7 +2290,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2858362"
@@ -2308,7 +2341,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "voobly": [
                 "123922182",
@@ -2352,7 +2386,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208611",
@@ -2414,7 +2449,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "673196"
@@ -2469,7 +2505,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2090225"
@@ -2533,7 +2570,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208269"
@@ -2594,7 +2632,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1311198",
@@ -2651,7 +2690,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "431744"
@@ -2710,7 +2750,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "459658",
@@ -2762,7 +2803,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "508080"
@@ -2822,7 +2864,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "212746",
@@ -2896,7 +2939,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1224481",
@@ -2948,7 +2992,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1262725",
@@ -2998,7 +3043,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "221997",
@@ -3047,7 +3093,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "239238",
@@ -3111,7 +3158,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "879956",
@@ -3171,7 +3219,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "3230529",
@@ -3250,7 +3299,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "235623",
@@ -3317,7 +3367,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "268565"
@@ -3364,7 +3415,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1893397",
@@ -3414,7 +3466,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "229063",
@@ -3464,7 +3517,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "599689",
@@ -3517,7 +3571,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "248441"
@@ -3577,7 +3632,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "voobly": [
                 "123666945",
@@ -3626,7 +3682,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2733015",
@@ -3680,7 +3737,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2535067"
@@ -3728,7 +3786,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "voobly": [
                 "3258",
@@ -3796,7 +3855,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "409748",
@@ -3858,7 +3918,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "300649",
@@ -3924,7 +3985,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "582058"
@@ -3971,7 +4033,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1098178"
@@ -4019,7 +4082,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208493"
@@ -4066,7 +4130,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "971296",
@@ -4131,7 +4196,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208080",
@@ -4191,7 +4257,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "246423",
@@ -4240,7 +4307,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "213355",
@@ -4290,7 +4358,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "3235648",
@@ -4354,7 +4423,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "182749",
@@ -4403,7 +4473,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "907464",
@@ -4454,7 +4525,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "226697"
@@ -4496,7 +4568,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "209118",
@@ -4539,7 +4612,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "223206",
@@ -4587,7 +4661,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1050688"
@@ -4634,7 +4709,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "357026",
@@ -4690,7 +4766,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": []
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": []
         }
       ],
       "platformElos": null
@@ -4738,7 +4815,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "290617",
@@ -4798,7 +4876,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "250103"
@@ -4870,7 +4949,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "247224"
@@ -4921,7 +5001,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "322858"
@@ -4968,7 +5049,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "222528"
@@ -5012,7 +5094,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1529495",
@@ -5058,7 +5141,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "211235",
@@ -5119,7 +5203,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2135484",
@@ -5180,7 +5265,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "283233",
@@ -5266,7 +5352,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "197930",
@@ -5326,7 +5413,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1390516",
@@ -5362,7 +5450,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "545512"
@@ -5404,7 +5493,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1428813",
@@ -5448,7 +5538,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1407942",
@@ -5494,7 +5585,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2815388",
@@ -5542,7 +5634,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2503651",
@@ -5585,7 +5678,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2792305",
@@ -5634,7 +5728,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "452924",
@@ -5691,7 +5786,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1451847",
@@ -5735,7 +5831,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "618731",
@@ -5778,7 +5875,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "580573",
@@ -5827,7 +5925,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "576919",
@@ -5887,7 +5986,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "229071",
@@ -5938,7 +6038,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "178430"
@@ -5980,7 +6081,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1264695",
@@ -6028,7 +6130,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208217",
@@ -6074,7 +6177,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2638400"
@@ -6121,7 +6225,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2309468",
@@ -6166,7 +6271,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2920057",
@@ -6223,7 +6329,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1626982",
@@ -6280,7 +6387,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "611972",
@@ -6341,7 +6449,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "219739",
@@ -6382,7 +6491,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2462063",
@@ -6436,7 +6546,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "4304303",
@@ -6496,7 +6607,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2526695",
@@ -6566,7 +6678,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "410691"
@@ -6608,7 +6721,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "570519",
@@ -6656,7 +6770,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1165138"
@@ -6707,7 +6822,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "874604",
@@ -6743,7 +6859,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2938425",
@@ -6809,7 +6926,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "271243"
@@ -6844,7 +6962,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "4796235"
@@ -6886,7 +7005,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "3101322",
@@ -6941,7 +7061,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2444511",
@@ -6984,7 +7105,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "212294"
@@ -7026,7 +7148,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "200073"
@@ -7085,7 +7208,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "226437",
@@ -7130,7 +7254,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "293288"
@@ -7172,7 +7297,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "245117",
@@ -7224,7 +7350,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1686373"
@@ -7266,7 +7393,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1531083",
@@ -7318,7 +7446,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "208812"
@@ -7357,7 +7486,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2125259",
@@ -7409,7 +7539,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "839529"
@@ -7460,7 +7591,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "272182"
@@ -7499,7 +7631,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1060672"
@@ -7538,7 +7671,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "581780"
@@ -7580,7 +7714,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1700004",
@@ -7621,7 +7756,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "283216"
@@ -7663,7 +7799,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1102458"
@@ -7714,7 +7851,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "196407"
@@ -7758,7 +7896,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2873005"
@@ -7809,7 +7948,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "351793"
@@ -7851,7 +7991,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "316555",
@@ -7891,7 +8032,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "802944",
@@ -7946,7 +8088,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1853187"
@@ -7997,7 +8140,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "207414"
@@ -8051,7 +8195,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "269143"
@@ -8102,7 +8247,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "197707"
@@ -8144,7 +8290,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2783660",
@@ -8189,7 +8336,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1274728"
@@ -8243,7 +8391,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "219493"
@@ -8282,7 +8431,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2429037"
@@ -8333,7 +8483,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "236934"
@@ -8372,7 +8523,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "3436170",
@@ -8412,7 +8564,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "232208"
@@ -8454,7 +8607,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "267597"
@@ -8493,7 +8647,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "77944"
@@ -8532,7 +8687,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "541127"
@@ -8575,7 +8731,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2183026",
@@ -8611,7 +8768,8 @@
       "infoPlatforms": null,
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "788320",
@@ -8651,7 +8809,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1802779"
@@ -8690,7 +8849,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "3085163"
@@ -8744,7 +8904,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "1670171"
@@ -8786,7 +8947,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "215498"
@@ -8837,7 +8999,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "211236"
@@ -8876,7 +9039,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "2821727"
@@ -8915,7 +9079,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "4129633",
@@ -8982,7 +9147,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "4865222",
@@ -9023,7 +9189,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "521395"
@@ -9062,7 +9229,8 @@
       ],
       "gamingProfiles": [
         {
-          "aoe2": [
+          "gamePlatformId": 2,
+          "gamePlatformUserIds": [
             {
               "de": [
                 "221188"
