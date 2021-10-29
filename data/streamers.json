@@ -157,7 +157,10 @@
           "contentLanguages": [
             "in"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -169,7 +172,7 @@
           "contentLanguages": [
             "in"
           ],
-          "contentCategories": [],
+          "contentCategories": [7,10,11],
           "contentGames": [
             2
           ]
@@ -227,7 +230,9 @@
           "contentLanguages": [
             "no"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -239,7 +244,7 @@
           "contentLanguages": [
             "no"
           ],
-          "contentCategories": [],
+          "contentCategories": [8],
           "contentGames": [
             2
           ]
@@ -307,7 +312,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -319,7 +326,7 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [8],
           "contentGames": [
             2
           ]
@@ -375,7 +382,9 @@
           "contentLanguages": [
             "cn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -433,7 +442,9 @@
           "contentLanguages": [
             "cn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -486,7 +497,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -561,7 +574,9 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -614,7 +629,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -626,7 +643,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -681,7 +700,9 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -693,7 +714,9 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -751,7 +774,10 @@
           "contentLanguages": [
             "ru"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -763,7 +789,10 @@
           "contentLanguages": [
             "ru"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -814,7 +843,9 @@
           "contentLanguages": [
             "si"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -869,7 +900,9 @@
           "contentLanguages": [
             "pl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -920,7 +953,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -932,7 +967,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -986,7 +1023,9 @@
           "contentLanguages": [
             "jp"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1037,7 +1076,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1049,7 +1090,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1100,7 +1143,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1112,7 +1157,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1164,7 +1211,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1212,7 +1261,9 @@
           "contentLanguages": [
             "at"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1224,7 +1275,9 @@
           "contentLanguages": [
             "at"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1275,7 +1328,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1287,7 +1342,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1299,7 +1356,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1311,7 +1370,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1362,7 +1423,9 @@
           "contentLanguages": [
             "cn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1411,7 +1474,9 @@
           "contentLanguages": [
             "rs"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1423,7 +1488,9 @@
           "contentLanguages": [
             "rs"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1489,7 +1556,11 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -1501,7 +1572,11 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -1566,7 +1641,11 @@
           "contentLanguages": [
             "de"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -1639,7 +1718,9 @@
           "contentLanguages": [
             "be"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1651,7 +1732,9 @@
           "contentLanguages": [
             "be"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1712,7 +1795,9 @@
           "contentLanguages": [
             "fi"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1724,7 +1809,9 @@
           "contentLanguages": [
             "fi"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1772,7 +1859,9 @@
           "contentLanguages": [
             "cz"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1784,7 +1873,9 @@
           "contentLanguages": [
             "cz"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1837,7 +1928,9 @@
           "contentLanguages": [
             "no"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1849,7 +1942,9 @@
           "contentLanguages": [
             "no"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1861,7 +1956,9 @@
           "contentLanguages": [
             "no"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1885,7 +1982,9 @@
           "contentLanguages": [
             "no"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1957,7 +2056,9 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -1969,7 +2070,9 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2021,7 +2124,9 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2069,7 +2174,9 @@
           "contentLanguages": [
             "cn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2120,7 +2227,10 @@
           "contentLanguages": [
             "cn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -2170,7 +2280,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2182,7 +2294,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2250,7 +2364,9 @@
           "contentLanguages": [
             "de"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2262,7 +2378,9 @@
           "contentLanguages": [
             "de"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2370,7 +2488,9 @@
           "contentLanguages": [
             "fi"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2421,7 +2541,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2433,7 +2555,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2489,7 +2613,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2542,7 +2668,11 @@
           "contentLanguages": [
             "il"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -2554,7 +2684,11 @@
           "contentLanguages": [
             "il"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -2604,7 +2738,9 @@
           "contentLanguages": [
             "fr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2616,7 +2752,9 @@
           "contentLanguages": [
             "fr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2674,7 +2812,9 @@
           "contentLanguages": [
             "fi"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2722,7 +2862,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2734,7 +2876,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2787,7 +2931,9 @@
           "contentLanguages": [
             "nl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2836,7 +2982,9 @@
           "contentLanguages": [
             "se"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -2848,7 +2996,9 @@
           "contentLanguages": [
             "se"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -2899,7 +3049,9 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2911,7 +3063,9 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -2976,7 +3130,9 @@
           "contentLanguages": [
             "cl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3027,7 +3183,9 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3077,7 +3235,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3130,7 +3290,9 @@
           "contentLanguages": [
             "pl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3142,7 +3304,9 @@
           "contentLanguages": [
             "pl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3191,7 +3355,9 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3203,7 +3369,9 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3259,7 +3427,10 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -3399,7 +3570,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3450,7 +3623,9 @@
           "contentLanguages": [
             "fi"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3501,7 +3676,9 @@
           "contentLanguages": [
             "it"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3815,7 +3992,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3827,7 +4006,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3890,7 +4071,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -3957,7 +4140,9 @@
           "contentLanguages": [
             "pe"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4114,7 +4299,9 @@
           "contentLanguages": [
             "ba"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -4168,7 +4355,9 @@
           "contentLanguages": [
             "fi"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -4395,7 +4584,9 @@
           "contentLanguages": [
             "in"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4407,7 +4598,9 @@
           "contentLanguages": [
             "in"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4457,7 +4650,9 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4509,7 +4704,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4552,7 +4749,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4787,7 +4986,9 @@
           "contentLanguages": [
             "cl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4848,7 +5049,9 @@
           "contentLanguages": [
             "gb"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -4909,7 +5112,9 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -5175,7 +5380,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -5237,7 +5444,9 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -5312,7 +5521,15 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            1,
+            2,
+            3,
+            4,
+            8,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -5324,7 +5541,15 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            1,
+            2,
+            3,
+            4,
+            8,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -5618,7 +5843,9 @@
           "contentLanguages": [
             "vn"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -5662,7 +5889,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -5815,7 +6044,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -5859,7 +6090,9 @@
           "contentLanguages": [
             "mx"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -5958,7 +6191,9 @@
           "contentLanguages": [
             "mx"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6025,7 +6260,9 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6164,7 +6401,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -6209,7 +6448,9 @@
           "contentLanguages": [
             "cl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6262,7 +6503,9 @@
           "contentLanguages": [
             "mx"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6421,7 +6664,9 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6478,7 +6723,9 @@
           "contentLanguages": [
             "it"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6521,7 +6768,9 @@
           "contentLanguages": [
             "at"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -6579,7 +6828,10 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -6645,7 +6897,11 @@
           "contentLanguages": [
             "mx"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            6
+          ],
           "contentGames": [
             2
           ]
@@ -6797,7 +7053,9 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6809,7 +7067,9 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6850,7 +7110,9 @@
           "contentLanguages": [
             "mx"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -6889,7 +7151,9 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            2
+          ],
           "contentGames": [
             2
           ]
@@ -6953,7 +7217,11 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            7,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -7033,7 +7301,9 @@
           "contentLanguages": [
             "br"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -7089,7 +7359,9 @@
           "contentLanguages": [
             "nl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -7132,7 +7404,9 @@
           "contentLanguages": [
             "de"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -7180,7 +7454,10 @@
           "contentLanguages": [
             "at"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -7192,7 +7469,10 @@
           "contentLanguages": [
             "at"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -7281,7 +7561,9 @@
           "contentLanguages": [
             "fr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -7325,7 +7607,14 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            6,
+            9,
+            10,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -7337,7 +7626,14 @@
           "contentLanguages": [
             "ca"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            6,
+            9,
+            10,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -7566,7 +7862,10 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -7578,7 +7877,10 @@
           "contentLanguages": [
             "ar"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -7658,7 +7960,9 @@
           "contentLanguages": [
             "fr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -7826,7 +8130,14 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            10,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -7838,7 +8149,14 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            10,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -7923,7 +8241,11 @@
           "contentLanguages": [
             "nl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8,
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -8019,7 +8341,9 @@
           "contentLanguages": [
             "tw"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -8060,7 +8384,11 @@
           "contentLanguages": [
             "by"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -8072,7 +8400,11 @@
           "contentLanguages": [
             "by"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -8115,7 +8447,13 @@
           "contentLanguages": [
             "cz"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            11
+          ],
           "contentGames": [
             2
           ]
@@ -8167,7 +8505,9 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -8222,7 +8562,13 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -8234,7 +8580,14 @@
           "contentLanguages": [
             "us"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            10,
+            12
+          ],
           "contentGames": [
             2
           ]
@@ -8274,7 +8627,9 @@
           "contentLanguages": [
             "uy"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -8320,7 +8675,9 @@
           "contentLanguages": [
             "ru"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -8363,7 +8720,13 @@
           "contentLanguages": [
             "fr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -8375,7 +8738,13 @@
           "contentLanguages": [
             "fr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            3,
+            4,
+            7,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -8458,7 +8827,11 @@
           "contentLanguages": [
             "at"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            6,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -8551,7 +8924,9 @@
           "contentLanguages": [
             "jp"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            7
+          ],
           "contentGames": [
             2
           ]
@@ -8634,7 +9009,9 @@
           "contentLanguages": [
             "es"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -8674,7 +9051,9 @@
           "contentLanguages": [
             "lt"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -8722,7 +9101,9 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            9
+          ],
           "contentGames": [
             2
           ]
@@ -8759,7 +9140,10 @@
           "contentLanguages": [
             "tr"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -8876,7 +9260,10 @@
           "contentLanguages": [
             "pl"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            8
+          ],
           "contentGames": [
             2
           ]
@@ -9107,7 +9494,12 @@
           "contentLanguages": [
             "de"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            7,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
@@ -9119,7 +9511,12 @@
           "contentLanguages": [
             "de"
           ],
-          "contentCategories": [],
+          "contentCategories": [
+            4,
+            7,
+            9,
+            10
+          ],
           "contentGames": [
             2
           ]
